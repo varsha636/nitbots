@@ -1,1 +1,4 @@
-created  a new gitignor file 
+created  a new gitignor file
+
+*.php 
+*.java 
