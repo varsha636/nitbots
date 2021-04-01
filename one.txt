@@ -2,3 +2,6 @@ creating rohiths logic
 
 
 creating harish logic 
+
+
+creating managers logic
